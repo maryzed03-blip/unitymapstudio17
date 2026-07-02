@@ -1,0 +1,1 @@
+import{n as e}from"./rolldown-runtime-QTnfLwEv.js";var t=e({SCHEMA_VERSION:()=>1,emptyCanvasState:()=>n}),n=()=>({objects:[],viewport:{x:0,y:0,zoom:1},settings:{}});export{t as n,n as t};
